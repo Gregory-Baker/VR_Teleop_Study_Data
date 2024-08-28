@@ -1,10 +1,20 @@
 # VR Teleoperation Experiment
 
-Post Trial Interview Transcripts
+Post-Trial Interview Transcripts
+
+Key:
+* DC = Direct Control
+* DCD = Direct Control with Delay
+* WC = Waypoint Control
+* WCD = Waypoint Control with Delay
+
+Comments in brackets were added for context or to specify which condition was being referenced.
 
 ## Participant 1
 
-Q: So what did you find difficult if anything about those two tasks? (DC+DCD)
+*Direct Control*
+
+Q: So what did you find difficult if anything about those two tasks?
 
 P: I'd say there's a, in the physical sense, a slight sense of nausea, but I suppose that's not specific to the task at hand it's more using VR. Generally the tasks were pretty easy - obviously with the second one there are points where, as long as you are generally on top of it, it's pretty easy to adjust for the fact that you've got a one-second delay, but if you find yourself in a situation where you have to suddenly make some panic moves then you can tend to make mistakes at that point so I suppose without that kind of protective feature of not bumping into things, it could be pretty problematic in that kind of environment.
 
@@ -12,13 +22,17 @@ Q: Other than the collision avoidance mechanism, was there anything else that yo
 
 P: I suppose an obvious thing would be a map of the environment if it was known kind of like a heads-up display kind of thing. If you could see what the sort of general map is, then you can work out your path before you go. There's a lot of times when you get to the next junction and you can quite easily identify where you need to go but there's no guarantee that there's going to be a path through. So yeah, something like previous mapping using drones or something.
 
-Q:What did you find hard about that method of control? (IC)
+*Waypoint Control*
+
+Q:What did you find hard about that method of control?
 
 P: One issue is that it's hard to work out sometimes whether... So the waypoint system, when you point, if some things in the way, it seems like it's obstructing the path you're trying to choose. Whereas there's other times because you can kind of arc it over things, you can kind of choose waypoints behind something else a little bit you know when you're dealing with upright supports and stuff it seems like it's being blocked sometimes which can be a little bit frustrating when you're moving through those tight beams unless you can see a through-point and you can just pop out the other side in which case it's a lot easier
 
 Q: Is there anything that you think could make that better? or in general make the task easier?
 
 P: Whether it'd make it easier? I suppose having kind of system - I don't really know how this one currently works - but a system works you know the the again you're pointing a certain direction and the more you lift your arm the further it'll go rather than kind of directly throwing an arc - if that makes sense - which I don't know if that's how it currently works but it seems like, as I said before, that it tends to block whereas this way if it's already capable of plotting waypoints based on what's around, then you could just throw it behind things, but then I suppose that allows you to go straight to the end, so.. yeah it would kind of break this study I suppose.
+
+*Post-Experiment*
 
 Q: Which method of control did you prefer when there was no communication delay?
 
